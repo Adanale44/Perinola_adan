@@ -8,4 +8,6 @@ class Perinola:
         caras =("Pon 1","Pon 2","Toma 1","Toma 2","Todos Toman","Ponen Todos")
         self.cara_visible = choices(caras)     
         return self.cara_visible
-    
+
+
+     
