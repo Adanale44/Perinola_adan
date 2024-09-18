@@ -1,3 +1,4 @@
+from random import choices
 class Apuesta:
      def __init__(self):
           self.fichas = 0
